@@ -1,2 +1,2 @@
 # sosnschoolpro.github.io
-First SosnP
+Sosn School Project
